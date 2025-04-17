@@ -1,0 +1,2 @@
+Hi, I am Mohan Kuruba
+We are using open() instead of fopen().
